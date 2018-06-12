@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCase>
+<selenese>
+	<command>open</command>
+	<target><![CDATA[https://uat1.michaelkors.co.uk/]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[link=women]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[link=men]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[link=SHOULDER BAGS]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[xpath=(//button[@name='quickview-btn'])[6]]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[//div[@id='quick-view-container']/div[2]/div[2]/div/div[2]/ul/li/div/ul/li[2]/label]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[link=add to bag]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[//section[@id='pageBodyWrapper']/div/div[2]/div/main/div[3]/ul/li[6]/div/div/a/div[2]/div/div/img]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[//div[@id='app']/div/div/section/div[2]/section/div[2]/div/div[2]/ul/li/div/ul/li[3]/label]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[link=add to bag]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[//div[@id='app']/div/div/header/div/div/div[2]/div[4]/div/div[2]/div/ul/li/a/span/span]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>type</command>
+	<target><![CDATA[id=search-box]]></target>
+	<value><![CDATA[regina]]></value>
+</selenese>
+<selenese>
+	<command>sendKeys</command>
+	<target><![CDATA[id=search-box]]></target>
+	<value><![CDATA[${KEY_ENTER}]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[name=quickview-btn]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[//div[@id='quick-view-container']/div[2]/div[2]/div/div[3]/ul/li[9]/div/label]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[link=add to bag]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[//section[@id='pageBodyWrapper']/div/div/div/main/div[3]/ul/li/div/div/a/div[2]/div/div/img]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[link=add to bag]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[link=CUSTOM KORS]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[xpath=(//button[@name='quickview-btn'])[3]]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[link=Customize It]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[//div[@id='mCSB_1_container']/div/div[3]/span/div/div/span/span/span[2]]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[//div[@id='fc-nav-flyout-header-55868']/h3/span[3]]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[//div[@id='mCSB_3_container']/div/div[3]/span/div/div/span/span/span[2]]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[name=text55868]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>type</command>
+	<target><![CDATA[name=text55868]]></target>
+	<value><![CDATA[ggg]]></value>
+</selenese>
+<selenese>
+	<command>sendKeys</command>
+	<target><![CDATA[name=text55868]]></target>
+	<value><![CDATA[${KEY_ENTER}]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[//div[@id='fc-nav-flyout-header-46648']/h3/span[3]]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[//div[@id='mCSB_4_container']/div/div[8]/span/div/div/span/span/span[2]]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[//div[@id='fluidConfigure']/div/div[2]/div[4]/div[4]/div/div/span]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[//div[@id='app']/div/div/header/div/div/div[2]/div[4]/div/div[2]/div/ul/li[4]/div/a/span]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[xpath=(//button[@type='button'])[11]]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[xpath=(//form[@id='qtyCartChange']/div/div/ul/li[5]/a)[2]]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>select</command>
+	<target><![CDATA[id=quantityCartSelectorci489000216]]></target>
+	<value><![CDATA[label=5]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[xpath=(//a[contains(text(),'Remove')])[3]]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[xpath=(//a[contains(text(),'Edit')])[3]]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[link=UK 8]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[id=updateBag_Cart]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[//div[@id='completeShoppingCart']/div/div/div/div[2]/div[2]/div/div/div/div/div/a]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[id=shopping-bag-promo]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>type</command>
+	<target><![CDATA[id=shopping-bag-promo]]></target>
+	<value><![CDATA[OFF20TEST]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[xpath=(//button[@type='submit'])[2]]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[id=checkoutBtn]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[name=Checkout As Guest]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[link=Enter address manually]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[id=address1]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>type</command>
+	<target><![CDATA[id=address1]]></target>
+	<value><![CDATA[test]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[id=city]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>type</command>
+	<target><![CDATA[id=city]]></target>
+	<value><![CDATA[london]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[id=postalCode]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>type</command>
+	<target><![CDATA[id=postalCode]]></target>
+	<value><![CDATA[sw7 5bj]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[id=set-billingAddr]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[//form[@id='shipping-form']/div[4]/div/div/div/div/div/div/div/button/span]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[link=Mr]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>select</command>
+	<target><![CDATA[id=title]]></target>
+	<value><![CDATA[label=Mr]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[id=first_name]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>type</command>
+	<target><![CDATA[id=first_name]]></target>
+	<value><![CDATA[ hjvjv]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[id=last_name]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>type</command>
+	<target><![CDATA[id=last_name]]></target>
+	<value><![CDATA[ghvgv]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[id=phone]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>type</command>
+	<target><![CDATA[id=phone]]></target>
+	<value><![CDATA[0044 7515478963]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[id=email]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>type</command>
+	<target><![CDATA[id=email]]></target>
+	<value><![CDATA[njn@min.com]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[//form[@id='shipping-form']/div[4]/div/div/div[7]/div/button]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[link=Continue to Review & Pay]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[id=cc-payment]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[id=creditCardName]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>type</command>
+	<target><![CDATA[id=creditCardName]]></target>
+	<value><![CDATA[john doe]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[id=payment-card-number]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>type</command>
+	<target><![CDATA[id=payment-card-number]]></target>
+	<value><![CDATA[4111111111111111]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[//div[@id='cc-payment-body']/div/div[4]/div[2]/div/div/div/button/span]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[link=05]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>select</command>
+	<target><![CDATA[id=month-select]]></target>
+	<value><![CDATA[label=05]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[//div[@id='cc-payment-body']/div/div[4]/div[3]/div/div/div/button/span]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[link=2022]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>select</command>
+	<target><![CDATA[id=year-select]]></target>
+	<value><![CDATA[label=2022]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[id=cardCVV]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>type</command>
+	<target><![CDATA[id=cardCVV]]></target>
+	<value><![CDATA[525]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[//div[@id='cc-payment-body']/div]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[xpath=(//a[contains(text(),'PAY NOW')])[4]]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>selectFrame</command>
+	<target><![CDATA[index=8]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[id=returnCode]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>select</command>
+	<target><![CDATA[id=returnCode]]></target>
+	<value><![CDATA[label=Successful]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[id=returnCode]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[name=B2]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+</TestCase>
